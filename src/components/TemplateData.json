@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c4d552a9-98e0-411c-8bee-417c57783094/sportswear-fleece-1-2-zip-cropped-sweatshirt-r1SgXb.png",
+        "title": "Nike Sportswear",
+        "price": 200,
+        "rating": 4.9
+    },
+    {
+        "id": 2,
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/8450c977-7474-41ea-bde4-f7a04f32e2a7/acg-wolf-tree-pullover-hoodie-2xtxh2.png",
+        "title": "Jordan Hoddie",
+        "price": 150,
+        "rating": 4
+    },
+    {
+        "id": 3,
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b18ef31d-8e48-474e-b021-f4e7a493b2cb/jordan-sport-support-padded-jumpman-bra-V8cFms.png",
+        "title": "Jordan Sports",
+        "price": 140,
+        "rating": 4.8
+    },
+    {
+        "id": 4,
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/a8ef1336-0bb5-4839-a396-9eba3d12b449/jordan-sport-mid-weight-jacket-0bkwfZ.png",
+        "title": "Jordan Jacket",
+        "price": 170,
+        "rating": 5
+    },
+    {
+        "id": 5,
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/e6105995-96d6-412d-adee-65891ac57690/air-jordan-1-high-method-of-make-shoes-wvNP62.png",
+        "title": "Air Jordan 1",
+        "price": 300,
+        "rating": 4.3
+    }, 
+    {
+        "id": 6,
+        "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/bd57348d-5023-47cc-b7fc-7ca4aaea220c/jordan-dri-fit-sport-diamond-shorts-MGrHBf.png",
+        "title": "Jordan Dri-FIT Sport",
+        "price": 100,
+        "rating": 4.1
+    } 
+]

@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+# Nike Fashion Hub: A Stylish Destination for Shoes and Clothes
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of Contents
+* Description
+* Features
+* Technologies Used
+* Installation
 
-## Available Scripts
 
-In the project directory, you can run:
+## Note
 
-### `npm start`
+This project is intended as a learning tool and can be used as a sample project for educational or personal projects.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+***
+## Description
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This project is a clone of the Nike website, built to provide an interactive and engaging shopping experience for users. It incorporates interactive product and price filters, enhancing user interaction and experience. The project utilizes React.js, Redux, and Tailwind CSS to achieve its functionality and design goals.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+***
+## Features
 
-### `npm run build`
+* Interactive Product and Search Feature: Enhance user experience with an interactive product filtering system and intuitive search functionality, offering seamless navigation through a wide range of products.
+  
+* Responsive Design: Utilized responsive design principles to ensure that the site is optimized for various devices, guaranteeing an optimal user experience across desktops, tablets, and mobile devices.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* React State Management: Demonstrated proficiency in front-end development by efficiently managing state using React.js, ensuring smooth data handling and live updates.
+  
+* Clean and Intuitive UI: Created a clean and intuitive user interface to provide users with a seamless browsing and shopping experience.
+  
+***
+## Screenshots
+![Screenshot 2023-07-25 210844](https://github.com/SanskarSinghRajput/SanskarSinghRajput/blob/main/NikeClone/nike1.png)
+![Screenshot 2023-07-25 211309](https://github.com/SanskarSinghRajput/SanskarSinghRajput/blob/main/NikeClone/nike2.png)
+![Screenshot 2023-07-25 211980](https://github.com/SanskarSinghRajput/SanskarSinghRajput/blob/main/NikeClone/nike3.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<details>
+  <summary>More screenshots</summary>
+  
+![Screenshot 2023-07-25 211451](https://github.com/SanskarSinghRajput/SanskarSinghRajput/blob/main/NikeClone/nike4.png)
+![image](https://github.com/SanskarSinghRajput/SanskarSinghRajput/blob/main/NikeClone/nike5.png)
+</details>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+***
 
-### `npm run eject`
+## Technologies Used
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+* React.js
+* Redux
+* Tailwind CSS
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+***
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Installation
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. Create react app 
+    npm create-react-app myapp
 
-## Learn More
+2. Open the project in your browser at [`http://localhost:3000`](http://localhost:3000) to view your project.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+The project is set up to use `postcss-cli` to process your CSS files. You can add your own `tailwind.config.js` file to customize your Tailwind setup.
